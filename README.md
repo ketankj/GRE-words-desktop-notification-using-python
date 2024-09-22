@@ -1,0 +1,2 @@
+# GRE_Words_Desktop_Notification using python
+ This repository provides a Python script that generates random GRE vocabulary word notifications using the plyer library. The script reads words and their meanings from a JSON file and sends desktop notifications at specified intervals. Ideal for users preparing for the GRE or anyone who wants to expand their vocabulary in an engaging, non-intrusive way.
